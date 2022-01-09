@@ -14,7 +14,7 @@ export default () => {
     </Menu>
   );
   return (
-    <Layout style={{ background: "#fff" }}>
+    <Layout>
       <Header>
         <Row justify="space-between">
           <Col span="12">
