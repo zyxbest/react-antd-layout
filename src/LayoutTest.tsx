@@ -49,10 +49,7 @@ export default () => {
             <Menu.Item onClick={() => setVisible(true)} key="1">
               手动调整
             </Menu.Item>
-            <Menu.Item key="2">
-              {/* <Switch /> */}
-              切换所有
-            </Menu.Item>
+            <Menu.Item key="2">切换所有</Menu.Item>
             <Menu.Item key="3">切换未分享过的</Menu.Item>
           </Menu>
         </Sider>
